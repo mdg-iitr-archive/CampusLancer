@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "848066865315-kf95ifphii3r5g0790mufhmmcjgm7e15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdsmdg.parija.campuslancer",
+            "certificate_hash": "D03F32071B9D0A958D894A031E4A40750846292D"
+          }
+        },
+        {
           "client_id": "848066865315-78dq6vj5oep5q58ph0dse5pr76j6qkd5.apps.googleusercontent.com",
           "client_type": 3
         }
